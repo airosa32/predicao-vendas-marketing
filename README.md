@@ -1,4 +1,4 @@
-# Data Science - Case 04
+# 📈 Modelo de Regressão para Previsão de Vendas com Base em Investimentos em Marketing Digital
 
 # Modelo de Regressão para marketing
 ## 1. Desempenho do Modelo 
